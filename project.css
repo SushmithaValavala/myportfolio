@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+h1{
+    color: white;
+}
+header{
+    background-color: black;
+    height:100px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    clip-path:circle();
+    border-radius: 150px;
+    height: 400px;
+    width: 300px;
+    
+}
+
+UL LI{
+display:inline;
+color: rgb(229, 140, 7);
+padding:20px;
+}
+UL LI a{
+    color: bisque;
+    text-decoration: none;
+}
+
+
+#home img{
+ height: 1800px;
+ width: 200px;
+ border-radius: 50%;
+ justify-content: right;
+ object-position: right;
+
+}
+#Bio{
+   color: black;
+}
+footer p{
+    background-color: rgb(237, 237, 159);
+}
